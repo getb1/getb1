@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getb1
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript and a bit of bash :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
