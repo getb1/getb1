@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getb1
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C/Python/Processing Java
+- 👀 I’m interested in Chess programming and minimax
+- 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
